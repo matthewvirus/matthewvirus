@@ -1,4 +1,4 @@
-Hello🖖, my name is Matthew, i still studying in Minsk radio engineering college. 
+Hello🖖, my name is Matthew, i studying in Minsk radio engineering college. 
 I'm self-taught programmer🧑‍💻, i've learn coding for 5 years. 
 
 My coding way was started form C++, when my mom bought for me book "Beginning C++ through game programming🎮.
