@@ -8,8 +8,6 @@ My coding way was started form C++, when my mom bought for me book "Beginning C+
 
 For today I've tried many programming languages (Java, C#, C++, Python, Kotlin, Dart {with Flutter framework}).
 
-My little dream is to become a part of <a href="https://twitter.com/EPAMSYSTEMS"><b>EPAM Systems</b></a> family.
-
 ### My contacts
 
 E-mail: <i>matthewzhigalo@gmail.com</i>
