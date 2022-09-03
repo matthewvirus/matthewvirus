@@ -14,4 +14,4 @@ E-mail: <i>matthewzhigalo@gmail.com</i>
 
 Twitter: <a href="https://twitter.com/MoveMountains0"><i>@MoveMountains0</i></a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/matthew-zhigalo-9589b81aa/"><i>Matthew Zhigalo</i></a>
+LinkedIn: <a href="https://www.linkedin.com/in/matthewvirus/"><i>Matthew Zhigalo</i></a>
